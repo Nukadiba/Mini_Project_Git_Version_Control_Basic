@@ -1,6 +1,10 @@
 # Mini_Project_Git_Version_Control_Basic
 
 
+# Github User Dashboard
+
+![](./img/git%20hub%20user%20dashboard.png)
+
 # 1. Initial Stup
 
 ## 1.1 Git Installation 
