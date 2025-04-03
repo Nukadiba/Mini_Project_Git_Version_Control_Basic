@@ -25,4 +25,24 @@
 ![](./img/jerry_clone.png)
 
 
+# 2. Toms and Jerry Starts Working 
 
+## 2.1 Pull Request 
+
+### Tom pull request from central repository for latest version of index.html
+
+![](./img/git_pull_index.png)
+
+### Jerry pull request from central repository for latest version of index.html
+
+![](./img/git_pul%20index%20jerry.png)
+
+## 2.2 Branch Creation
+
+### Tom Branch creation 
+
+![](./img/git_brach_tom.png)
+
+### Jerry Branch creation 
+
+![](./img/jeryy-branch.png)
